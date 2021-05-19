@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+      <class name="Testcases.aboutUsTest">
+        <test-method status="PASS" signature="invalidAboutUs()[pri:0, instance:Testcases.aboutUsTest@18eed359]" name="invalidAboutUs" duration-ms="4" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidAboutUs -->
+        <test-method status="PASS" signature="validAboutUs()[pri:0, instance:Testcases.aboutUsTest@18eed359]" name="validAboutUs" duration-ms="0" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validAboutUs -->
+      </class> <!-- Testcases.aboutUsTest -->
+      <class name="Testcases.homeTest">
+        <test-method status="PASS" signature="invalidHome()[pri:0, instance:Testcases.homeTest@4b4523f8]" name="invalidHome" duration-ms="1" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidHome -->
+        <test-method status="PASS" signature="validHome()[pri:0, instance:Testcases.homeTest@4b4523f8]" name="validHome" duration-ms="1" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validHome -->
+      </class> <!-- Testcases.homeTest -->
+      <class name="Testcases.loginTest">
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:Testcases.loginTest@731a74c]" name="invalidLogin" duration-ms="1" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Testcases.loginTest@731a74c]" name="validLogin" duration-ms="2" started-at="2021-05-19T22:17:04 IST" finished-at="2021-05-19T22:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+      </class> <!-- Testcases.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
